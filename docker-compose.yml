@@ -1,0 +1,8 @@
+version: "3.1"
+services:
+  base:
+    image: base:latest
+    restart: always
+    container_name: base-image
+    privileged: true
+#    tty: true
