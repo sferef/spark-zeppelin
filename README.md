@@ -53,3 +53,14 @@ For more details, check out all closed bugs and merged PRs.
 As usual for minor releases, Scala 2.12.8 is binary compatible with the whole Scala 2.12 series.
 `
 
+
+Check spark infra:
+```sh
+/opt/spark/bin/spark-submit \
+--class org.apache.spark.examples.SparkPi \
+--master spark://master:7077 \
+--deploy-mode client \
+--total-executor-cores 2 \
+/opt/spark/examples/jars/spark-examples_2.12-3.1.2.jar 200
+
+```

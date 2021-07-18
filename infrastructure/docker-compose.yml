@@ -1,0 +1,48 @@
+version: "3.1"
+services:
+  master:
+    image: spark-master:latest
+    privileged: true
+    hostname: master
+    container_name: master
+#    command: bin/spark-class org.apache.spark.deploy.master.Master -h master
+    expose:
+      - 7001
+      - 7002
+      - 7003
+      - 7004
+      - 7005
+      - 7006
+      - 7077
+      - 6066
+    ports:
+      - "4040:4040"
+      - "8080:8080"
+      - "7077:7077"
+      - "6066:6066"
+      - "18080:18080"
+    volumes:
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
+    environment:
+      - "SPARK_PUBLIC_DNS=localhost"
+      - "MASTER=spark://master:7077"
+
+  worker:
+    image: spark-worker:latest
+    privileged: true
+    hostname: worker
+    depends_on:
+      - master
+    environment:
+      - "SPARK_MASTER=spark://master:7077"
+      - "SPARK_WORKER_CORES=1"
+      - "SPARK_WORKER_MEMORY=1G"
+      - "SPARK_DRIVER_MEMORY=128m"
+      - "SPARK_EXECUTOR_MEMORY=256m"
+      - "SPARK_WORKER_PORT=8881"
+      - "SPARK_WORKER_WEBUI_PORT=8081"
+      - "SPARK_PUBLIC_DNS=worker"
+    volumes:
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
