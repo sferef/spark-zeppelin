@@ -11,7 +11,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
         <!-- Spark Properties -->
         <spark.version>2.4</spark.version>
         <spark.version.build>2.4.0</spark.version.build>
@@ -60,20 +59,12 @@
     </build>
 
     <dependencies>
-
         <!-- Scala Dependencies -->
-        <dependency>
-            <groupId>org.scalatest</groupId>
-            <artifactId>scalatest_${scala.version}</artifactId>
-            <version>${scala.test.version}</version>
-            <scope>test</scope>
-        </dependency>
         <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
             <version>${scala.version.build}</version>
         </dependency>
-
         <!-- Spark Core -->
         <dependency>
             <groupId>org.apache.spark</groupId>
@@ -85,32 +76,11 @@
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-catalyst_${scala.version}</artifactId>
             <version>${spark.version.build}</version>
-            <scope>test</scope>
         </dependency>
         <!-- Spark SQL -->
         <dependency>
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-sql_${scala.version}</artifactId>
-            <version>${spark.version.build}</version>
-        </dependency>
-        <!-- Spark Streaming -->
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-streaming_${scala.version}</artifactId>
-            <version>${spark.version.build}</version>
-            <scope>provided</scope>
-        </dependency>
-        <!-- Spark Hive -->
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-hive_${scala.version}</artifactId>
-            <version>${spark.version.build}</version>
-            <scope>provided</scope>
-        </dependency>
-        <!-- Spark Avro -->
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-avro_${scala.version}</artifactId>
             <version>${spark.version.build}</version>
         </dependency>
         <!-- Logs -->

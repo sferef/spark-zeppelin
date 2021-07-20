@@ -1,0 +1,22 @@
+version: "3.1"
+services:
+
+  zeppelin:
+    image: zeppelin:latest
+    privileged: true
+    hostname: zeppelin
+    container_name: zeppelin
+#    command: /opt/spark/bin/spark-class org.apache.spark.deploy.master.Master -h master --ip zeppelin --port 7077
+#    command: /opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker
+
+    ports:
+      - "9010:9010"
+    deploy:
+      resources:
+        limits:
+          cpus: '4'
+          memory: 2G
+    volumes:
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
+      - ./docker/zeppelin/conf-single:/opt/zeppelin-0.9.0-bin-all/conf
