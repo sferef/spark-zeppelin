@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/micromatch/-/micromatch-3.1.10.tgz#70859bc95c9840952f359a068a3fc49f9ecfac23",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/micromatch/-/micromatch-3.1.10.tgz",
+    "hash": "70859bc95c9840952f359a068a3fc49f9ecfac23",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "70859bc95c9840952f359a068a3fc49f9ecfac23"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/has-bigints/-/has-bigints-1.0.1.tgz#64fe6acb020673e3b78db035a5af69aa9d07b113",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/has-bigints/-/has-bigints-1.0.1.tgz",
+    "hash": "64fe6acb020673e3b78db035a5af69aa9d07b113",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "64fe6acb020673e3b78db035a5af69aa9d07b113"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/extend-shallow/-/extend-shallow-2.0.1.tgz#51af7d614ad9a9f610ea1bafbb989d6b1c56890f",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/extend-shallow/-/extend-shallow-2.0.1.tgz",
+    "hash": "51af7d614ad9a9f610ea1bafbb989d6b1c56890f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "51af7d614ad9a9f610ea1bafbb989d6b1c56890f"
+}

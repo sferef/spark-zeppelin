@@ -1,0 +1,31 @@
+{
+  "enabled": {
+    "ultimate-pie-chart": "ultimate-pie-chart@0.0.2",
+    "geospark-zeppelin": "geospark-zeppelin@1.2.0",
+    "ultimate-column-chart": "ultimate-column-chart@0.0.2",
+    "ultimate-range-chart": "ultimate-range-chart@0.0.2",
+    "ultimate-column-chart-negative-values": "ultimate-column-chart-negative-values@0.0.3",
+    "zeppelin-leaflet": "zeppelin-leaflet@1.0.5",
+    "zeppelin-number": "zeppelin-number@1.0.1",
+    "zeppelin-highmaps": "zeppelin-highmaps@1.0.0",
+    "ultimate-heatmap-chart": "ultimate-heatmap-chart@0.0.2",
+    "ultimate-scatter-chart": "ultimate-scatter-chart@0.0.2",
+    "ultimate-dual-column-chart": "ultimate-dual-column-chart@0.0.5",
+    "zeppelin-highcharts-heatmap": "zeppelin-highcharts-heatmap@0.0.5"
+  },
+  "packageConfig": {},
+  "bundleDisplayOrder": [
+    "zeppelin-leaflet",
+    "zeppelin-number",
+    "zeppelin-highmaps",
+    "ultimate-column-chart",
+    "ultimate-pie-chart",
+    "ultimate-heatmap-chart",
+    "geospark-zeppelin",
+    "ultimate-scatter-chart",
+    "ultimate-column-chart-negative-values",
+    "ultimate-range-chart",
+    "ultimate-dual-column-chart",
+    "zeppelin-highcharts-heatmap"
+  ]
+}

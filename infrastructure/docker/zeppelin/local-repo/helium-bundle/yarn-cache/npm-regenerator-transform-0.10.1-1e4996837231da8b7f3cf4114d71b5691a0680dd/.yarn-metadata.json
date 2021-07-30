@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/regenerator-transform/-/regenerator-transform-0.10.1.tgz#1e4996837231da8b7f3cf4114d71b5691a0680dd",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/regenerator-transform/-/regenerator-transform-0.10.1.tgz",
+    "hash": "1e4996837231da8b7f3cf4114d71b5691a0680dd",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "1e4996837231da8b7f3cf4114d71b5691a0680dd"
+}

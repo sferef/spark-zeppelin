@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/braces/-/braces-2.3.2.tgz#5979fd3f14cd531565e5fa2df1abfff1dfaee729",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/braces/-/braces-2.3.2.tgz",
+    "hash": "5979fd3f14cd531565e5fa2df1abfff1dfaee729",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5979fd3f14cd531565e5fa2df1abfff1dfaee729"
+}

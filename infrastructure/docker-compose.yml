@@ -14,13 +14,14 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '1'
+          cpus: '2'
           memory: 1G
     volumes:
       - ./apps:/opt/spark-apps
       - ./data:/opt/spark-data
       - ./docker/zeppelin/conf:/opt/zeppelin-0.9.0-bin-all/conf
-#  /opt/zeppelin-0.9.0-bin-all/bin/zeppelin-daemon.sh start
+      - ./docker/zeppelin/local-repo:/opt/zeppelin-0.9.0-bin-all/local-repo
+    #  /opt/zeppelin-0.9.0-bin-all/bin/zeppelin-daemon.sh start
 
   master:
     image: spark-master:latest

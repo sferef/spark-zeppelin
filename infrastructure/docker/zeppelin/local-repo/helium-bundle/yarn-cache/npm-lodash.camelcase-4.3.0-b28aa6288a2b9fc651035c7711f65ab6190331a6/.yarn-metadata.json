@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/lodash.camelcase/-/lodash.camelcase-4.3.0.tgz#b28aa6288a2b9fc651035c7711f65ab6190331a6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/lodash.camelcase/-/lodash.camelcase-4.3.0.tgz",
+    "hash": "b28aa6288a2b9fc651035c7711f65ab6190331a6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b28aa6288a2b9fc651035c7711f65ab6190331a6"
+}

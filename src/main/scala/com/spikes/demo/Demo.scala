@@ -1,7 +1,6 @@
 package com.spikes.demo
 
-import java.sql.Date
-import org.apache.spark.sql.{Encoders, SparkSession}
+import org.apache.spark.sql.SparkSession
 
 /*
  * @project: spark-zeppelin
@@ -14,42 +13,14 @@ object Demo extends App {
 
   val spark = SparkSession.builder()
       .master("local[*]")
-      .appName("Demo CoronaVirus demo")
+      .appName("Medical information")
       .getOrCreate()
 
-  import spark.implicits._
-
-  val schema = Encoders.product[vaccinationsAgeDemographics].schema
-
-  val vaccinationsAgeDemographics = spark
-      .read
-      .option("header", "true")
-      .options(Map("dateFormat" -> "yyy-MM-dd"))
-      .schema(schema)
-      .csv("infrastructure/data/vaccinationsAgeDemographics_utla_E06000042_2021-07-18.csv")
-      .toDF("a")
-//      .as[vaccinationsAgeDemographics]
-
-  vaccinationsAgeDemographics.show(10)
+  // Grafico temporal por mes el numero de casos.
+  // Agregacion temporal por quincena o semana o dia
+  // Mapa por pais (provincia) with cases number
+  // Mapa de vacunados
+  // grafico de quesito por pais (infectados, muertos y vacunados)
 
 }
-
-case class vaccinationsAgeDemographics(
-  areaCode: String,
-  areaName: String,
-  areaType: String,
-  date: Date,
-  age: String,
-  VaccineRegisterPopulationByVaccinationDate: Double,
-  cumPeopleVaccinatedCompleteByVaccinationDate: Double,
-  newPeopleVaccinatedCompleteByVaccinationDate: Double,
-  newPeopleVaccinatedFirstDoseByVaccinationDate: Double,
-  cumPeopleVaccinatedSecondDoseByVaccinationDate: Double,
-  newPeopleVaccinatedSecondDoseByVaccinationDate: Double,
-  cumVaccinationFirstDoseUptakeByVaccinationDatePercentage: Double,
-  cumVaccinationCompleteCoverageByVaccinationDatePercentage: Double,
-  cumVaccinationSecondDoseUptakeByVaccinationDatePercentage: Double
-)
-
-
 

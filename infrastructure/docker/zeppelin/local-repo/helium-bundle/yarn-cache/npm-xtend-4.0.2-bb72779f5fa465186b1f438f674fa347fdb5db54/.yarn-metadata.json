@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz",
+    "hash": "bb72779f5fa465186b1f438f674fa347fdb5db54",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bb72779f5fa465186b1f438f674fa347fdb5db54"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-template/-/babel-template-6.26.0.tgz#de03e2d16396b069f46dd9fff8521fb1a0e35e02",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-template/-/babel-template-6.26.0.tgz",
+    "hash": "de03e2d16396b069f46dd9fff8521fb1a0e35e02",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "de03e2d16396b069f46dd9fff8521fb1a0e35e02"
+}

@@ -1,0 +1,33 @@
+{
+  "enabled": {
+    "zeppelin-leaflet": "zeppelin-leaflet@1.0.5",
+    "geospark-zeppelin": "geospark-zeppelin@1.2.0",
+    "zeppelin-highmaps": "zeppelin-highmaps@1.0.0",
+    "ultimate-heatmap-chart": "ultimate-heatmap-chart@0.0.2",
+    "ultimate-scatter-chart": "ultimate-scatter-chart@0.0.2",
+    "ultimate-column-chart": "ultimate-column-chart@0.0.2",
+    "ultimate-range-chart": "ultimate-range-chart@0.0.2",
+    "ultimate-pie-chart": "ultimate-pie-chart@0.0.2",
+    "volume-leaflet": "volume-leaflet@1.0.3",
+    "ultimate-column-chart-negative-values": "ultimate-column-chart-negative-values@0.0.3",
+    "zeppelin-bubblechart": "zeppelin-bubblechart@0.0.4",
+    "ultimate-dual-column-chart": "ultimate-dual-column-chart@0.0.5",
+    "zeppelin-number": "zeppelin-number@1.0.1"
+  },
+  "packageConfig": {},
+  "bundleDisplayOrder": [
+    "zeppelin-leaflet",
+    "geospark-zeppelin",
+    "zeppelin-highmaps",
+    "ultimate-heatmap-chart",
+    "ultimate-scatter-chart",
+    "ultimate-column-chart",
+    "ultimate-range-chart",
+    "ultimate-pie-chart",
+    "volume-leaflet",
+    "ultimate-column-chart-negative-values",
+    "zeppelin-bubblechart",
+    "ultimate-dual-column-chart",
+    "zeppelin-number"
+  ]
+}

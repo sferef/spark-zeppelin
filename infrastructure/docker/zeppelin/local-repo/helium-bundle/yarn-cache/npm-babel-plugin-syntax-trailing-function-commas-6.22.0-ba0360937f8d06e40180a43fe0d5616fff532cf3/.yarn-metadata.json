@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.22.0.tgz#ba0360937f8d06e40180a43fe0d5616fff532cf3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-syntax-trailing-function-commas/-/babel-plugin-syntax-trailing-function-commas-6.22.0.tgz",
+    "hash": "ba0360937f8d06e40180a43fe0d5616fff532cf3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ba0360937f8d06e40180a43fe0d5616fff532cf3"
+}

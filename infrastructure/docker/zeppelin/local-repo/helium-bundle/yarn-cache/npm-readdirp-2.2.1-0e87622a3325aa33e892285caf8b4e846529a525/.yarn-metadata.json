@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/readdirp/-/readdirp-2.2.1.tgz#0e87622a3325aa33e892285caf8b4e846529a525",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/readdirp/-/readdirp-2.2.1.tgz",
+    "hash": "0e87622a3325aa33e892285caf8b4e846529a525",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0e87622a3325aa33e892285caf8b4e846529a525"
+}

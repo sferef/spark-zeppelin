@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-helper-replace-supers/-/babel-helper-replace-supers-6.24.1.tgz#bf6dbfe43938d17369a213ca8a8bf74b6a90ab1a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-helper-replace-supers/-/babel-helper-replace-supers-6.24.1.tgz",
+    "hash": "bf6dbfe43938d17369a213ca8a8bf74b6a90ab1a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bf6dbfe43938d17369a213ca8a8bf74b6a90ab1a"
+}

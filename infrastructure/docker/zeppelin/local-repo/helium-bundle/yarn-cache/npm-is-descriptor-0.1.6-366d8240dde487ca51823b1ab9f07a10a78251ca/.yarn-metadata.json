@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/is-descriptor/-/is-descriptor-0.1.6.tgz#366d8240dde487ca51823b1ab9f07a10a78251ca",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/is-descriptor/-/is-descriptor-0.1.6.tgz",
+    "hash": "366d8240dde487ca51823b1ab9f07a10a78251ca",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "366d8240dde487ca51823b1ab9f07a10a78251ca"
+}

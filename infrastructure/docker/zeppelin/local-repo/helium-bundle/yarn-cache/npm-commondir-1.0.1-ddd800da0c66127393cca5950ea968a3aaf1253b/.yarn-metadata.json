@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/commondir/-/commondir-1.0.1.tgz#ddd800da0c66127393cca5950ea968a3aaf1253b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/commondir/-/commondir-1.0.1.tgz",
+    "hash": "ddd800da0c66127393cca5950ea968a3aaf1253b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ddd800da0c66127393cca5950ea968a3aaf1253b"
+}

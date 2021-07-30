@@ -1,0 +1,8 @@
+{
+  "type": "VISUALIZATION",
+  "name": "volume-leaflet",
+  "description": "Geospatial visualization using the Leaflet map library.",
+  "artifact": "/Users/bradleyjohnson/projects/helium-volume-leaflet",
+  "license": "BSD-2-Clause",
+  "icon": "<i class='fa fa-globe'></i>"
+}

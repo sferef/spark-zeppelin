@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/memory-fs/-/memory-fs-0.2.0.tgz#f2bb25368bc121e391c2520de92969caee0a0290",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/memory-fs/-/memory-fs-0.2.0.tgz",
+    "hash": "f2bb25368bc121e391c2520de92969caee0a0290",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f2bb25368bc121e391c2520de92969caee0a0290"
+}

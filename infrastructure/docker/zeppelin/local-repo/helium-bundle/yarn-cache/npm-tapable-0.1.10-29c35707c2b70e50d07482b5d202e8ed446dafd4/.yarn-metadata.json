@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/tapable/-/tapable-0.1.10.tgz#29c35707c2b70e50d07482b5d202e8ed446dafd4",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/tapable/-/tapable-0.1.10.tgz",
+    "hash": "29c35707c2b70e50d07482b5d202e8ed446dafd4",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "29c35707c2b70e50d07482b5d202e8ed446dafd4"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-syntax-async-functions/-/babel-plugin-syntax-async-functions-6.13.0.tgz#cad9cad1191b5ad634bf30ae0872391e0647be95",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-syntax-async-functions/-/babel-plugin-syntax-async-functions-6.13.0.tgz",
+    "hash": "cad9cad1191b5ad634bf30ae0872391e0647be95",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "cad9cad1191b5ad634bf30ae0872391e0647be95"
+}

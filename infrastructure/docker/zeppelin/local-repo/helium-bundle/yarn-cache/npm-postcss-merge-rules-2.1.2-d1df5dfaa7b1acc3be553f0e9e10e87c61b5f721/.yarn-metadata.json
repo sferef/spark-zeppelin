@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-merge-rules/-/postcss-merge-rules-2.1.2.tgz#d1df5dfaa7b1acc3be553f0e9e10e87c61b5f721",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-merge-rules/-/postcss-merge-rules-2.1.2.tgz",
+    "hash": "d1df5dfaa7b1acc3be553f0e9e10e87c61b5f721",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d1df5dfaa7b1acc3be553f0e9e10e87c61b5f721"
+}

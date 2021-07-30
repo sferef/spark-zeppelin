@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-helper-optimise-call-expression/-/babel-helper-optimise-call-expression-6.24.1.tgz#f7a13427ba9f73f8f4fa993c54a97882d1244257",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-helper-optimise-call-expression/-/babel-helper-optimise-call-expression-6.24.1.tgz",
+    "hash": "f7a13427ba9f73f8f4fa993c54a97882d1244257",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f7a13427ba9f73f8f4fa993c54a97882d1244257"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-filter-plugins/-/postcss-filter-plugins-2.0.3.tgz#82245fdf82337041645e477114d8e593aa18b8ec",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-filter-plugins/-/postcss-filter-plugins-2.0.3.tgz",
+    "hash": "82245fdf82337041645e477114d8e593aa18b8ec",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "82245fdf82337041645e477114d8e593aa18b8ec"
+}

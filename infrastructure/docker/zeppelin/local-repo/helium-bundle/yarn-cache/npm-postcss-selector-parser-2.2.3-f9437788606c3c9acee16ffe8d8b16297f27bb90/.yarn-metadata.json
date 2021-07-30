@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-2.2.3.tgz#f9437788606c3c9acee16ffe8d8b16297f27bb90",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-2.2.3.tgz",
+    "hash": "f9437788606c3c9acee16ffe8d8b16297f27bb90",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "f9437788606c3c9acee16ffe8d8b16297f27bb90"
+}

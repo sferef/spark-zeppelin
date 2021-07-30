@@ -19,3 +19,9 @@ RUN yum install -y npm
 EXPOSE 9010
 
 CMD ["/usr/sbin/init"]
+
+##RUN /bin/bash -c 'touch /opt/zeppelin-0.9.0-bin-all/logs/zeppelin--zeppelin.log'
+#
+#RUN /bin/bash -c '/opt/zeppelin-0.9.0-bin-all/bin/zeppelin-daemon.sh start'
+#
+#CMD ["tail", "-f", "/opt/zeppelin-0.9.0-bin-all/logs/zeppelin--zeppelin.log"]

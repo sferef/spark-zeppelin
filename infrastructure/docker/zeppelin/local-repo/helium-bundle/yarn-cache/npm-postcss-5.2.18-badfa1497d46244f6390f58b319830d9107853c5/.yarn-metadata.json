@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss/-/postcss-5.2.18.tgz#badfa1497d46244f6390f58b319830d9107853c5",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss/-/postcss-5.2.18.tgz",
+    "hash": "badfa1497d46244f6390f58b319830d9107853c5",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "badfa1497d46244f6390f58b319830d9107853c5"
+}

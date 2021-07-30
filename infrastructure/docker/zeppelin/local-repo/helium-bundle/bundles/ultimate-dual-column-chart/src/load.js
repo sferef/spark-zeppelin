@@ -1,0 +1,8 @@
+import bundlesultimatedualcolumnchart from "../index"
+heliumBundles.push({
+id: "ultimate-dual-column-chart",
+name: "ultimate-dual-column-chart",
+icon: "\u003cimg width\u003d\"21\" height\u003d\"21\" class\u003d\"icon icons8-Line-Chart\" src\u003d\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAB1ElEQVRoQ+1azUrDQBCebFMPtWlJPejRd1AQvFihIPgMpVS0dw9SFC/tQZDiG7RgKX0JpWC9in2HHlXQHFJyaDcb2dAFtY2bkByWMntbMkP225nv29kfDVakaSuCA5QCUmnXG0DACzu5jLHnfu1uyO3VAtKpe0YmM9H1FJWBsSdOlrruTa/WaigJpLSzC1vmhgwHPI5e4OPLaiIQ6VTFMKh06h5GJMYEJu6KEVFRfpEjItHL7YsiIeQgSuL3TlvNKPYy20Q4wssDQshV3lh3ZD+k1NVtx8n2zlqJVgaJASnkjPPjvf28DMib9QmD0SsgkICZwoj8lF/OEUwtGalCfsfUwtRC+f2fLMgR5MgSjvhFp0aeQiqtb8Y8diiOc3hfidQSQPh+IkzjtZrSQMqlozA4oD94QCB8pgLPteLWWiK1MCKqkR0jghH5cxqPZJ+vGqha8xsn5UoUVC1ULVQtgGVHpqhaqFoB19O4squ4sqfTqeuCkdNle9XpjII1sX/djwiyb5qmzN3//m5ZS7e6ZtaAtbR0CGDZNkxndPHlgz8QIMVQo5gbiecTvFu9v9xmlFWj+BOddLsnt2Ph4z+qidAYsKGSj2oiYFgwTfQOMM5A4vp+A403Sm9lQCHKAAAAAElFTkSuQmCC\" \u003e",
+type: "VISUALIZATION",
+class: bundlesultimatedualcolumnchart
+})

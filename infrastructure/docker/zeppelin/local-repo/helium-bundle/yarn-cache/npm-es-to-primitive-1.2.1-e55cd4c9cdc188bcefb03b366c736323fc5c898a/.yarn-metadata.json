@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/es-to-primitive/-/es-to-primitive-1.2.1.tgz#e55cd4c9cdc188bcefb03b366c736323fc5c898a",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/es-to-primitive/-/es-to-primitive-1.2.1.tgz",
+    "hash": "e55cd4c9cdc188bcefb03b366c736323fc5c898a",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e55cd4c9cdc188bcefb03b366c736323fc5c898a"
+}

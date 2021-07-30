@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-1.0.3.tgz#b83571fa4d8c25b82e231b06e3a3055de4ca1a47",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-1.0.3.tgz",
+    "hash": "b83571fa4d8c25b82e231b06e3a3055de4ca1a47",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b83571fa4d8c25b82e231b06e3a3055de4ca1a47"
+}

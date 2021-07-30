@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.6.tgz#ff040b2b0853b23c3d31027523706f1885d76bee",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.6.tgz",
+    "hash": "ff040b2b0853b23c3d31027523706f1885d76bee",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ff040b2b0853b23c3d31027523706f1885d76bee"
+}

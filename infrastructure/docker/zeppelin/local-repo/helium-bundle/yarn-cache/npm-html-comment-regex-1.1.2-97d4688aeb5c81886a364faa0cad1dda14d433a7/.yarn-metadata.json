@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/html-comment-regex/-/html-comment-regex-1.1.2.tgz#97d4688aeb5c81886a364faa0cad1dda14d433a7",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/html-comment-regex/-/html-comment-regex-1.1.2.tgz",
+    "hash": "97d4688aeb5c81886a364faa0cad1dda14d433a7",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "97d4688aeb5c81886a364faa0cad1dda14d433a7"
+}

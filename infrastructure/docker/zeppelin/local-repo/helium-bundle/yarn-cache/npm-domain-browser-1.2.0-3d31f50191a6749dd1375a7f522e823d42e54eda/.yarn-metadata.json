@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.2.0.tgz",
+    "hash": "3d31f50191a6749dd1375a7f522e823d42e54eda",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3d31f50191a6749dd1375a7f522e823d42e54eda"
+}

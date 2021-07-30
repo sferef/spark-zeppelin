@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/reduce-function-call/-/reduce-function-call-1.0.3.tgz#60350f7fb252c0a67eb10fd4694d16909971300f",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/reduce-function-call/-/reduce-function-call-1.0.3.tgz",
+    "hash": "60350f7fb252c0a67eb10fd4694d16909971300f",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "60350f7fb252c0a67eb10fd4694d16909971300f"
+}

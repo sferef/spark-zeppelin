@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-colormin/-/postcss-colormin-2.2.2.tgz#6631417d5f0e909a3d7ec26b24c8a8d1e4f96e4b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-colormin/-/postcss-colormin-2.2.2.tgz",
+    "hash": "6631417d5f0e909a3d7ec26b24c8a8d1e4f96e4b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6631417d5f0e909a3d7ec26b24c8a8d1e4f96e4b"
+}

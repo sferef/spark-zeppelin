@@ -3,6 +3,61 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/project/Dependencies.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/main/scala/Transactions/Example.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/main/scala/Transactions/FoldableSolution.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/main/scala/Transactions/InitialSolution.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/main/scala/Transactions/Solution.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/main/scala/Transactions/TestinMonoids.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/main/scala/Transactions/transactions.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/test/scala/Transactions/Helper.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../quantexa-interview/src/test/scala/Transactions/SolutionSuite.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../rockjvm-spark/spark-essentials/spark-cluster/docker-compose.yml">
           <value>
             <set />
@@ -98,12 +153,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/infrastructure/docker/zeppelin/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/infrastructure/docker/zeppelin/local-repo/helium-registry-cache/a6618b3e-540a-340e-b624-07bf7f2b5e7d">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/infrastructure/single-mode-zeppelin.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/queries/Queries.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/queries/transactions.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/spark-zeppelin.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/com/spikes/demo/Demo.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/com/spikes/demo/InitialSolution.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/bde-tech-test-master/src/test/scala/example/TherapyOverlapsTest.scala">
           <value>
             <set />
           </value>
@@ -114,6 +209,11 @@
           </value>
         </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.sc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/sbtShell">
           <value>
             <set />
           </value>

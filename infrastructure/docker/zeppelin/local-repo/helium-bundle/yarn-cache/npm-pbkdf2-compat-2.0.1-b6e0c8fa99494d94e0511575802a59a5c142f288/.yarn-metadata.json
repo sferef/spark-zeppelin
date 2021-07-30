@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/pbkdf2-compat/-/pbkdf2-compat-2.0.1.tgz#b6e0c8fa99494d94e0511575802a59a5c142f288",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/pbkdf2-compat/-/pbkdf2-compat-2.0.1.tgz",
+    "hash": "b6e0c8fa99494d94e0511575802a59a5c142f288",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b6e0c8fa99494d94e0511575802a59a5c142f288"
+}

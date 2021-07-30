@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-types/-/babel-types-6.26.0.tgz#a3b073f94ab49eb6fa55cd65227a334380632497",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-types/-/babel-types-6.26.0.tgz",
+    "hash": "a3b073f94ab49eb6fa55cd65227a334380632497",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a3b073f94ab49eb6fa55cd65227a334380632497"
+}

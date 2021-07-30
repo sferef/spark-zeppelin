@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-reduce-idents/-/postcss-reduce-idents-2.4.0.tgz#c2c6d20cc958284f6abfbe63f7609bf409059ad3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-reduce-idents/-/postcss-reduce-idents-2.4.0.tgz",
+    "hash": "c2c6d20cc958284f6abfbe63f7609bf409059ad3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c2c6d20cc958284f6abfbe63f7609bf409059ad3"
+}

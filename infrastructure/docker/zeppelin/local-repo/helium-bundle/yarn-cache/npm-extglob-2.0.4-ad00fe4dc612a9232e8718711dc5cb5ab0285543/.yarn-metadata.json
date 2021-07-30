@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/extglob/-/extglob-2.0.4.tgz#ad00fe4dc612a9232e8718711dc5cb5ab0285543",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/extglob/-/extglob-2.0.4.tgz",
+    "hash": "ad00fe4dc612a9232e8718711dc5cb5ab0285543",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "ad00fe4dc612a9232e8718711dc5cb5ab0285543"
+}

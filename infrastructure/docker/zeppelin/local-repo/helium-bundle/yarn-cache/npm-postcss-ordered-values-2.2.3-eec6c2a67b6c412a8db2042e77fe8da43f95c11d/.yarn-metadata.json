@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-ordered-values/-/postcss-ordered-values-2.2.3.tgz#eec6c2a67b6c412a8db2042e77fe8da43f95c11d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-ordered-values/-/postcss-ordered-values-2.2.3.tgz",
+    "hash": "eec6c2a67b6c412a8db2042e77fe8da43f95c11d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "eec6c2a67b6c412a8db2042e77fe8da43f95c11d"
+}

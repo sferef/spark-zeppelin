@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/string.prototype.trimend/-/string.prototype.trimend-1.0.4.tgz#e75ae90c2942c63504686c18b287b4a0b1a45f80",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/string.prototype.trimend/-/string.prototype.trimend-1.0.4.tgz",
+    "hash": "e75ae90c2942c63504686c18b287b4a0b1a45f80",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e75ae90c2942c63504686c18b287b4a0b1a45f80"
+}

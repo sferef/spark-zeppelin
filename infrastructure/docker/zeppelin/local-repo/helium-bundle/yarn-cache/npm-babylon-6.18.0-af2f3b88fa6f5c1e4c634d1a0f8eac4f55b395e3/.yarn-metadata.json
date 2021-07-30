@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz",
+    "hash": "af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/leaflet/-/leaflet-1.4.0.tgz#d5f56eeb2aa32787c24011e8be4c77e362ae171b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/leaflet/-/leaflet-1.4.0.tgz",
+    "hash": "d5f56eeb2aa32787c24011e8be4c77e362ae171b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d5f56eeb2aa32787c24011e8be4c77e362ae171b"
+}

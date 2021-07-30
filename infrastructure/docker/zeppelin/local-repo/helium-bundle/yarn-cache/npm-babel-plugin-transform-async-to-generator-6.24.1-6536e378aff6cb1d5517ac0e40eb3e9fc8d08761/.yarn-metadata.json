@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-async-to-generator/-/babel-plugin-transform-async-to-generator-6.24.1.tgz#6536e378aff6cb1d5517ac0e40eb3e9fc8d08761",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-async-to-generator/-/babel-plugin-transform-async-to-generator-6.24.1.tgz",
+    "hash": "6536e378aff6cb1d5517ac0e40eb3e9fc8d08761",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6536e378aff6cb1d5517ac0e40eb3e9fc8d08761"
+}

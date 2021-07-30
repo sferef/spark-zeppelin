@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/union-value/-/union-value-1.0.1.tgz#0b6fe7b835aecda61c6ea4d4f02c14221e109847",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/union-value/-/union-value-1.0.1.tgz",
+    "hash": "0b6fe7b835aecda61c6ea4d4f02c14221e109847",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "0b6fe7b835aecda61c6ea4d4f02c14221e109847"
+}

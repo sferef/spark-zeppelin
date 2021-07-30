@@ -19,4 +19,5 @@ services:
     volumes:
       - ./apps:/opt/spark-apps
       - ./data:/opt/spark-data
+      - ./docker/zeppelin/local-repo:/opt/zeppelin-0.9.0-bin-all/local-repo
       - ./docker/zeppelin/conf-single:/opt/zeppelin-0.9.0-bin-all/conf

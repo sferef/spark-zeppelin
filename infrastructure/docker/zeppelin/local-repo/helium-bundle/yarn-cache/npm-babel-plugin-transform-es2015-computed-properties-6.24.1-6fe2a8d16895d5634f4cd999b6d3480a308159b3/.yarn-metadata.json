@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-computed-properties/-/babel-plugin-transform-es2015-computed-properties-6.24.1.tgz#6fe2a8d16895d5634f4cd999b6d3480a308159b3",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-computed-properties/-/babel-plugin-transform-es2015-computed-properties-6.24.1.tgz",
+    "hash": "6fe2a8d16895d5634f4cd999b6d3480a308159b3",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6fe2a8d16895d5634f4cd999b6d3480a308159b3"
+}

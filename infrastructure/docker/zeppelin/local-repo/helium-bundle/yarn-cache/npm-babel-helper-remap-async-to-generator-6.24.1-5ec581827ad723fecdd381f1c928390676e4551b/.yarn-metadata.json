@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-helper-remap-async-to-generator/-/babel-helper-remap-async-to-generator-6.24.1.tgz#5ec581827ad723fecdd381f1c928390676e4551b",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-helper-remap-async-to-generator/-/babel-helper-remap-async-to-generator-6.24.1.tgz",
+    "hash": "5ec581827ad723fecdd381f1c928390676e4551b",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "5ec581827ad723fecdd381f1c928390676e4551b"
+}

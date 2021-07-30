@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz",
+    "hash": "eb3913333458775cb84cd1a1fae062106bb87545",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "eb3913333458775cb84cd1a1fae062106bb87545"
+}

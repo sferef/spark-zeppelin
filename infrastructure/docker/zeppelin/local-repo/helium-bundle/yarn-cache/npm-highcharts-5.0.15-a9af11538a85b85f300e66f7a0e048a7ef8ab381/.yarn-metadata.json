@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/highcharts/-/highcharts-5.0.15.tgz#a9af11538a85b85f300e66f7a0e048a7ef8ab381",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/highcharts/-/highcharts-5.0.15.tgz",
+    "hash": "a9af11538a85b85f300e66f7a0e048a7ef8ab381",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "a9af11538a85b85f300e66f7a0e048a7ef8ab381"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-destructuring/-/babel-plugin-transform-es2015-destructuring-6.23.0.tgz#997bb1f1ab967f682d2b0876fe358d60e765c56d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-destructuring/-/babel-plugin-transform-es2015-destructuring-6.23.0.tgz",
+    "hash": "997bb1f1ab967f682d2b0876fe358d60e765c56d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "997bb1f1ab967f682d2b0876fe358d60e765c56d"
+}

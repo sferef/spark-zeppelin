@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-duplicate-keys/-/babel-plugin-transform-es2015-duplicate-keys-6.24.1.tgz#73eb3d310ca969e3ef9ec91c53741a6f1576423e",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-duplicate-keys/-/babel-plugin-transform-es2015-duplicate-keys-6.24.1.tgz",
+    "hash": "73eb3d310ca969e3ef9ec91c53741a6f1576423e",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "73eb3d310ca969e3ef9ec91c53741a6f1576423e"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-helper-regex/-/babel-helper-regex-6.26.0.tgz#325c59f902f82f24b74faceed0363954f6495e72",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-helper-regex/-/babel-helper-regex-6.26.0.tgz",
+    "hash": "325c59f902f82f24b74faceed0363954f6495e72",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "325c59f902f82f24b74faceed0363954f6495e72"
+}

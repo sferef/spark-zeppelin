@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-strict-mode/-/babel-plugin-transform-strict-mode-6.24.1.tgz#d5faf7aa578a65bbe591cf5edae04a0c67020758",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-strict-mode/-/babel-plugin-transform-strict-mode-6.24.1.tgz",
+    "hash": "d5faf7aa578a65bbe591cf5edae04a0c67020758",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d5faf7aa578a65bbe591cf5edae04a0c67020758"
+}

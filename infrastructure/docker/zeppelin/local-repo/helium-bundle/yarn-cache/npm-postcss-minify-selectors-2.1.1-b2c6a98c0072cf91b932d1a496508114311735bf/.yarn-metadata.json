@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/postcss-minify-selectors/-/postcss-minify-selectors-2.1.1.tgz#b2c6a98c0072cf91b932d1a496508114311735bf",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/postcss-minify-selectors/-/postcss-minify-selectors-2.1.1.tgz",
+    "hash": "b2c6a98c0072cf91b932d1a496508114311735bf",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "b2c6a98c0072cf91b932d1a496508114311735bf"
+}

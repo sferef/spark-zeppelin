@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/is-negative-zero/-/is-negative-zero-2.0.1.tgz#3de746c18dda2319241a53675908d8f766f11c24",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/is-negative-zero/-/is-negative-zero-2.0.1.tgz",
+    "hash": "3de746c18dda2319241a53675908d8f766f11c24",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "3de746c18dda2319241a53675908d8f766f11c24"
+}

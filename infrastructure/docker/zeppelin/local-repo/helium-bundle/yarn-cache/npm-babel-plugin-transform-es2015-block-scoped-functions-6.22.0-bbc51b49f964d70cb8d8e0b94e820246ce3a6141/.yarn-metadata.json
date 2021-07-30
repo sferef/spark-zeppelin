@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.22.0.tgz#bbc51b49f964d70cb8d8e0b94e820246ce3a6141",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-block-scoped-functions/-/babel-plugin-transform-es2015-block-scoped-functions-6.22.0.tgz",
+    "hash": "bbc51b49f964d70cb8d8e0b94e820246ce3a6141",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "bbc51b49f964d70cb8d8e0b94e820246ce3a6141"
+}

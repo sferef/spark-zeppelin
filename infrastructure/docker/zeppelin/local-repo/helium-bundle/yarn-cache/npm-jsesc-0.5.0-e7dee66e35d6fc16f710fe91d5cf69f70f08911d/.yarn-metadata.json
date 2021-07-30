@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz",
+    "hash": "e7dee66e35d6fc16f710fe91d5cf69f70f08911d",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
+}

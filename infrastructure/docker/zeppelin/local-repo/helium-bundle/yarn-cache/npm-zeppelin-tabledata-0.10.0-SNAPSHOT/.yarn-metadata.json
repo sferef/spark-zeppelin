@@ -1,0 +1,11 @@
+{
+  "artifacts": [],
+  "remote": {
+    "type": "copy",
+    "registry": "npm",
+    "hash": null,
+    "reference": "/opt/zeppelin-0.9.0-bin-all/local-repo/helium-bundle/local_modules/zeppelin-tabledata"
+  },
+  "registry": "npm",
+  "hash": ""
+}

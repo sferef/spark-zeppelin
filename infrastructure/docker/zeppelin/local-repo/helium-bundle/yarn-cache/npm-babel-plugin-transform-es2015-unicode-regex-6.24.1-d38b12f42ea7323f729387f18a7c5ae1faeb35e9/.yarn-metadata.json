@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-unicode-regex/-/babel-plugin-transform-es2015-unicode-regex-6.24.1.tgz#d38b12f42ea7323f729387f18a7c5ae1faeb35e9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-plugin-transform-es2015-unicode-regex/-/babel-plugin-transform-es2015-unicode-regex-6.24.1.tgz",
+    "hash": "d38b12f42ea7323f729387f18a7c5ae1faeb35e9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "d38b12f42ea7323f729387f18a7c5ae1faeb35e9"
+}

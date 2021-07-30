@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/babel-register/-/babel-register-6.26.0.tgz#6ed021173e2fcb486d7acb45c6009a856f647071",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/babel-register/-/babel-register-6.26.0.tgz",
+    "hash": "6ed021173e2fcb486d7acb45c6009a856f647071",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "6ed021173e2fcb486d7acb45c6009a856f647071"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz#13757bc89b209b049fe5d86430e21cf40a89a8e6",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz",
+    "hash": "13757bc89b209b049fe5d86430e21cf40a89a8e6",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "13757bc89b209b049fe5d86430e21cf40a89a8e6"
+}

@@ -1,0 +1,12 @@
+{
+  "artifacts": [],
+  "remote": {
+    "resolved": "https://registry.yarnpkg.com/find-cache-dir/-/find-cache-dir-0.1.1.tgz#c8defae57c8a52a8a784f9e31c57c742e993a0b9",
+    "type": "tarball",
+    "reference": "https://registry.yarnpkg.com/find-cache-dir/-/find-cache-dir-0.1.1.tgz",
+    "hash": "c8defae57c8a52a8a784f9e31c57c742e993a0b9",
+    "registry": "npm"
+  },
+  "registry": "npm",
+  "hash": "c8defae57c8a52a8a784f9e31c57c742e993a0b9"
+}
